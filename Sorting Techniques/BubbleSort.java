@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-class BubbleSort {
-  public static void main(String []args) {
+class BubbleSort{
+  public static void main(String []args){
     int num, i, j, temp;
 	int pass = 0;
     Scanner input = new Scanner(System.in);
